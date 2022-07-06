@@ -1,2 +1,2 @@
 # InstaDog
-Um mini app 
+Um mini app no Snack - Reack native
